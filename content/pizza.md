@@ -6,6 +6,9 @@ draft = true
 feature_image = ""
 tags = []
 title = "Pizza"
+[menu.main]
+name = "ddd"
+weight = 5
 
 +++
 AAAaa
